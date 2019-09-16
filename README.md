@@ -5,7 +5,7 @@
 git clone https://github.com/Soon-cheol/react.git
 
 ### 진행
-- 인원 : 최순철, 유석규, 박지원, 김다솜, 유경진, 이소정
+- 인원 : 최순철, 유석규, 박지원, 이다솜, 유경진, 이소정
 - 시간 : 오후 7시 30분 ~ 10시 30분
 - 일자 : 매주 수요일
 - 장소 : <a href="https://www.spacecloud.kr/space/16034" target="_blank">강남 공존라운지</a>
