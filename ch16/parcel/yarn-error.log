@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/bin/yarn add redex
+  /usr/local/bin/node /usr/local/bin/yarn init
 
 PATH: 
   /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: EACCES: permission denied, unlink '/Users/jiwonpark/Desktop/study/react/ch16/parcel/node_modules/.yarn-integrity'
+  Error: EACCES: permission denied, open '/Users/jiwonpark/Desktop/study/react/ch16/parcel/package.json'
 
 npm manifest: 
   {
