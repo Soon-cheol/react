@@ -1,0 +1,18 @@
+extends layout
+
+block content
+   form(action='/bbs' method='post')
+       table 
+        tr
+            td 
+                p 타이틀
+            td
+                input(type="text" name="title")
+        tr
+            td
+                p 내용
+            td
+                textarea(name='content')
+        tr
+            td(colspan=2)
+                input(type="submit" value="전송")
